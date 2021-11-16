@@ -1,0 +1,67 @@
+body{
+  width: 900px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border-radius: 1px solid black;
+  justify-content: flex-end;
+  align-items: stretch;
+}
+
+html {
+  font-size: 10px; 
+  font-family: 'Fruktur', cursive;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  background-image: url(https://imagenesgamers.canalrcn.com/ImgTodoGamers/lol_semis.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+h2 {
+  font-size: 22px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: rgb(95, 139, 168);
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 1px 1px 0.3px rgb(70, 53, 53);
+}
+
+p, ol, ul {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+a {
+  color:rgb(81, 122, 134);
+  font-size: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 100%;
+}
+
+div{
+  width: 900px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  box-shadow: 5px 5px 20px black;
+  border: 5px rgb(255, 0, 0);
+  border-radius: 5px;
+  backdrop-filter: blur(9px);
+}
+
+
+
